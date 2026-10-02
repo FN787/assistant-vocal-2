@@ -1,0 +1,6 @@
+anthropic
+faster-whisper
+sounddevice
+soundfile
+numpy
+pyttsx3
